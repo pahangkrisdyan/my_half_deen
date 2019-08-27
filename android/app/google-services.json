@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714026971252",
+    "firebase_url": "https://belajarfirebase-6e9cc.firebaseio.com",
+    "project_id": "belajarfirebase-6e9cc",
+    "storage_bucket": "belajarfirebase-6e9cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714026971252:android:1839c407c8917ea8",
+        "android_client_info": {
+          "package_name": "com.example.tb_mhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714026971252-b3eueh0dkoe9ui4f043dn61j8g2k8lv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0sGCWL_8-SEBQQHuiQZw_7kEfgUA-z74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714026971252-b3eueh0dkoe9ui4f043dn61j8g2k8lv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
